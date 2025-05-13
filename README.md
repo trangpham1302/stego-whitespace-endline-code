@@ -5,5 +5,5 @@ Cách 1:
 - Chạy lệnh labtainer -r stego-whitespace-endline-code để bắt đầu bài lab.
 
 Cách 2:
-- Chạy lệnh imodule để thêm bài vào máy.
+- Chạy lệnh imodule https://github.com/trangpham1302/stego-whitespace-endline-code/raw/refs/heads/main/imodule.tar để thêm bài vào máy.
 - Chạy lệnh labtainer -r stego-whitespace-endline-code để bắt đầu bài lab.
